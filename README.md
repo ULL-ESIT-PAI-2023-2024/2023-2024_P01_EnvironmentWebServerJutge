@@ -1,1 +1,7 @@
-# 2023-2024_P01_EnvironmentWebServerJutge
+## PAI Lab assignment 
+The project directory organization is as follows:
+
+      .
+      ├── web-server
+      ├── www
+
